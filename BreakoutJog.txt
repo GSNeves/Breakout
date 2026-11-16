@@ -1,0 +1,5 @@
+Darth Vader#150
+Han Solo#120
+Chewbacca#110
+Luke Skywalker#90
+R2-D2#80

@@ -1,0 +1,19 @@
+# Executáveis e objetos compilados
+*.exe
+*.o
+*.obj
+*.out
+
+# Saves gerados em tempo de execução
+*.bin
+
+# Arquivos do Code::Blocks / IDE
+*.depend
+*.layout
+bin/
+obj/
+.vscode/
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
